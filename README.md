@@ -6,7 +6,7 @@ Hashes only added when I have sourced the dll direclty from an official source t
 
 | Version | SHA1                                     | MD5                              | Source |
 |---------|------------------------------------------|----------------------------------|--------|
-| 2.2.11  | b43e8c34b8bf50becdf71bd1bce9e835d73dc2da | fd41bd81d82273f69896ecc0235aea19 | [DLSS SDK](https://developer.nvidia.com/dlss-getting-started#sdk-version) |
+| 2.2.11  | b43e8c34b8bf50becdf71bd1bce9e835d73dc2da | fd41bd81d82273f69896ecc0235aea19 | [DLSS SDK](https://developer.nvidia.com/dlss-getting-started#sdk-version), v2.2.1 |
 | 2.2.10  |                                          |                                  |        |
 | 2.2.9   |                                          |                                  |        |
 | 2.2.6   | d2de50d22b7a080037cf45555cdb84948b0ba14f | 754505ee9d2178e95a1f4530bdfab3ab | [LEGO Builder's Journey](https://store.steampowered.com/app/1544360/LEGO_Builders_Journey/), v1.x, Steam|
