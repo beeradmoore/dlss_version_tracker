@@ -1,6 +1,6 @@
 # DLSS Version Tracker
 
-Versions numbers from known downloads on[TechPowerup](https://www.techpowerup.com/download/nvidia-dlss-dll/) (download at your own risk).
+Versions numbers from known downloads on [TechPowerup](https://www.techpowerup.com/download/nvidia-dlss-dll/) (download at your own risk).
 
 Hashes only added when I have sourced the dll direclty from an official source that isn't a random download from the internet.
 
