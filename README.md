@@ -19,12 +19,12 @@ Hashes only added when I have sourced the dll direclty from an official source t
 | 2.1.51  |                                          |        |
 | 2.1.50  |                                          |        |
 | 2.1.40  |                                          |        |
-| 2.1.39  | 07A1C8888C5815F15308632C1CEF1EF94F7AB89B | [Cyberpunk 2077](https://store.steampowered.com/app/1091500/Cyberpunk_2077/), 1.23 |
+| 2.1.39  | 07A1C8888C5815F15308632C1CEF1EF94F7AB89B | [Cyberpunk 2077](https://store.steampowered.com/app/1091500/Cyberpunk_2077/), v1.23 |
 | 2.1.35  |                                          |        |
 | 2.1.31  |                                          |        |
 | 2.1.25  |                                          |        |
 | 2.1.24  |                                          |        |
-| 2.1.19  | 112c9e878dc9a7d04e80b02268905266fed337c1 | [Death Stranding](https://store.steampowered.com/app/1190460/DEATH_STRANDING/), v1.06, Steam |
+| 2.1.19  | 112c9e878dc9a7d04e80b02268905266fed337c1 | [Death Stranding](https://store.steampowered.com/app/1190460/DEATH_STRANDING/), v1.06 |
 | 2.1.16  |                                          |        |
 | 2.0.38  |                                          |        |
 | 2.0.34  |                                          |        |
