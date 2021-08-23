@@ -6,6 +6,8 @@ Hashes only added when I have sourced the dll direclty from an official source t
 
 | Version | SHA1                                     | Source |
 |---------|------------------------------------------|--------|
+| 2.2.16  |                                          |        |
+| 2.2.15  |                                          |        |
 | 2.2.11  | b43e8c34b8bf50becdf71bd1bce9e835d73dc2da | [DLSS SDK](https://developer.nvidia.com/dlss-getting-started#sdk-version), v2.2.1 |
 | 2.2.10  | 1110760889cbf810072ea2e60B1c2093ad258572 | [Rust](https://store.steampowered.com/app/252490/Rust/), Friday July 2 2021|
 | 2.2.9   |                                          |        |
